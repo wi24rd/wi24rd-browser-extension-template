@@ -1,0 +1,5 @@
+This is annotation by [[https://zhw.pages.dev/][@wi24rd]].
+
+** Reference
+
+- [[https://webextension.org/][Extension Development and ToolKit :: WebExtension.ORG | Dedicated to browser extension and progressive web application development]]

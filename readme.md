@@ -1,4 +1,6 @@
-# browser-extension-template
+# wi24rd-browser-extension-template
+DIY version of [browser-extension-template](https://github.com/fregante/browser-extension-template) by [@wi24rd](https://zhw.pages.dev).
+
 
 [link-rgh]: https://github.com/sindresorhus/refined-github
 [link-ngh]: https://github.com/sindresorhus/notifier-for-github
